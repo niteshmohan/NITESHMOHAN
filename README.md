@@ -1,112 +1,236 @@
 <h1 align="center">Hi 👋, I'm Nitesh Mohan</h1>
-<h3 align="center">B.Tech Student | Aspiring Software Developer | AI & Web Development Enthusiast</h3>
+
+<h3 align="center">
+B.Tech Student • Software Developer • AI & Web Development Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niteshmohan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=niteshmohan&theme=flat&column=6&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/niteshmohan">
+    <img src="https://komarev.com/ghpvc/?username=niteshmohan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   </a>
+  <a href="https://github.com/niteshmohan?tab=followers">
+    <img src="https://img.shields.io/github/followers/niteshmohan?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/niteshmohan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/niteshmohan?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niteshmohan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing **B.Tech** in Computer Science / Information Technology.
-- 🔭 **Current Focus:** Building intelligent traffic solutions and modern web applications.
-- 🌱 **Learning:** Advanced Software Engineering, System Architecture, and AI Integration.
-- 💬 **Ask me about:** Web Development, AI Projects, and Data Structures & Algorithms.
-- 📫 **Reach me at:** [niteshmohan06@gmail.com](mailto:niteshmohan06@gmail.com)
-- ⚡ **Fun Fact:** I love taking on complex engineering challenges and turning ideas into clean code.
+I'm a **B.Tech student** passionate about building software that solves real-world problems.
+
+I enjoy working across **software development, artificial intelligence, computer vision, web technologies, and problem solving**. My goal is to continuously improve my engineering skills by turning ideas into practical, scalable, and well-structured applications.
+
+* 🎓 Pursuing **B.Tech**
+* 💻 Aspiring **Software Developer**
+* 🤖 Exploring **AI, Machine Learning & Computer Vision**
+* 🌐 Building **modern web applications**
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🛠️ Learning **Software Engineering & System Design**
+* 🚦 Currently working on **AI-powered traffic & emergency-response solutions**
+* 📚 Always learning, experimenting, and building
+
+> **"Build. Break. Learn. Improve. Repeat."**
 
 ---
 
-### 🚀 Featured Project
+## 🚀 What I'm Working On
 
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3 align="center">🚦 <a href="https://github.com/niteshmohan/AI-Traffic-Management-Emergency-System-">AI Traffic Management & Emergency System</a></h3>
-      <p align="left">
-        An intelligent traffic management solution designed to dynamically control signal timings and prioritize emergency vehicles (ambulances, fire engines) using Computer Vision and AI algorithms.
-      </p>
-      <p align="left">
-        <b>Tech Stack:</b> Python, OpenCV, Machine Learning, Computer Vision
-      </p>
-    </td>
-  </tr>
+### 🚦 AI Traffic Management & Emergency System
+
+An intelligent traffic management system designed to improve traffic flow and provide priority to emergency vehicles such as **ambulances and fire engines**.
+
+**Core Technologies**
+
+`Python` `OpenCV` `Machine Learning` `Computer Vision`
+
+**Key Goals**
+
+* 🚦 Intelligent traffic signal management
+* 🚑 Emergency vehicle detection & prioritization
+* 👁️ Real-time computer vision
+* 📊 Traffic analysis
+* ⚡ Dynamic decision making
+
+🔗 **[View Project →](https://github.com/niteshmohan/AI-Traffic-Management-Emergency-System-)**
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Data Structures & Algorithms     ███████████████░░░░░
+Software Engineering             ██████████████░░░░░░
+Web Development                  ███████████████░░░░░
+Artificial Intelligence          ████████████░░░░░░░░
+Machine Learning                 ███████████░░░░░░░░░
+System Design                    █████████░░░░░░░░░░░
+Computer Vision                  ████████████░░░░░░░░
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" alt="Programming Languages"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" alt="Web Development"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" alt="AI and Machine Learning"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" alt="Tools and Platforms"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚦 AI Traffic Management
+
+AI-powered traffic management and emergency vehicle prioritization system using computer vision.
+
+**Stack:** Python • OpenCV • ML
+
+<a href="https://github.com/niteshmohan/AI-Traffic-Management-Emergency-System-">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💡 More Projects Coming
+
+I'm continuously building projects while improving my skills in software development, AI, web technologies, and problem solving.
+
+**Focus:** AI • Web • DSA • Systems
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🛠️ Languages & Technologies
+## 📊 GitHub Statistics
 
-#### **Programming Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-#### **Web Development & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-#### **Tools & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=niteshmohan&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="Nitesh's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmohan&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🌐 Connect & Coding Profiles
+## 🔥 Contribution Streak
 
-<p align="left">
-  <a href="https://linkedin.com/in/nitesh-mohan-654171374" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=niteshmohan&theme=algolia&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshmohan&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niteshmohan&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Achievements"/>
+</p>
+
+---
+
+## 💡 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/niteshmohan">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://leetcode.com/niteshmohan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://codeforces.com/profile/niteshmohan">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://codeforces.com/profile/niteshmohan" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <a href="https://www.codechef.com/users/niteshmohan">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-  <a href="https://www.codechef.com/users/niteshmohan" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</p>
+
+<p align="center">
+  <i>Solving problems. Learning patterns. Improving every day.</i>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nitesh-mohan-654171374">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:niteshmohan06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/niteshmohan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 📫 Let's Connect
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niteshmohan&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmohan&layout=compact&theme=algolia&hide_border=true&hide=html,css" alt="Top Languages" />
+  I'm always interested in connecting with fellow developers, students, and builders.
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshmohan&theme=algolia&hide_border=true" alt="Streak Stats" />
+  <b>Have an interesting idea or project?</b><br/>
+  Feel free to reach out!
+</p>
+
+<p align="center">
+  <a href="mailto:niteshmohan06@gmail.com">
+    <img src="https://img.shields.io/badge/Get%20In%20Touch-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch"/>
+  </a>
 </p>
 
 ---
 
-### 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshmohan&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6C63FF&height=100&section=footer" width="100%" alt="Footer"/>
 </p>
